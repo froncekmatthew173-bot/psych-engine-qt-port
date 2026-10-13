@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- What are you looking for in here? -HTK -->
+
+<TextureAtlas imagePath="stars.png">
+	<SubTexture name="stars instancia 10000" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10001" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10002" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10003" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10004" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10005" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10006" x="5" y="5" width="1143" height="333" frameX="-1" frameY="-1" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10007" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10008" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10009" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10010" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10011" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10012" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10013" x="5" y="343" width="1403" height="335" frameX="-2" frameY="0" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10014" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10015" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10016" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10017" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10018" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10019" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10020" x="5" y="683" width="1097" height="331" frameX="-1" frameY="-5" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10021" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10022" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10023" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10024" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10025" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10026" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+	<SubTexture name="stars instancia 10027" x="1107" y="683" width="1144" height="332" frameX="0" frameY="-3" frameWidth="1405" frameHeight="335" />
+</TextureAtlas>

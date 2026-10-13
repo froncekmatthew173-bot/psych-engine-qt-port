@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- What are you looking for in here? -HTK -->
+
+<TextureAtlas imagePath="poster.png">
+	<SubTexture name="poster instancia 10000" x="5" y="5" width="88" height="85" frameX="-6" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10001" x="5" y="5" width="88" height="85" frameX="-6" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10002" x="5" y="5" width="88" height="85" frameX="-6" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10003" x="5" y="5" width="88" height="85" frameX="-6" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10004" x="98" y="5" width="94" height="83" frameX="-1" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10005" x="98" y="5" width="94" height="83" frameX="-1" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10006" x="98" y="5" width="94" height="83" frameX="-1" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10007" x="98" y="5" width="94" height="83" frameX="-1" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10008" x="197" y="5" width="94" height="80" frameX="0" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10009" x="197" y="5" width="94" height="80" frameX="0" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10010" x="197" y="5" width="94" height="80" frameX="0" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10011" x="197" y="5" width="94" height="80" frameX="0" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10012" x="297" y="5" width="94" height="82" frameX="-2" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10013" x="297" y="5" width="94" height="82" frameX="-2" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10014" x="297" y="5" width="94" height="82" frameX="-2" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10015" x="297" y="5" width="94" height="82" frameX="-2" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10016" x="396" y="5" width="88" height="84" frameX="-8" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10017" x="396" y="5" width="88" height="84" frameX="-8" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10018" x="396" y="5" width="88" height="84" frameX="-8" frameY="0" frameWidth="95" frameHeight="85" />
+	<SubTexture name="poster instancia 10019" x="396" y="5" width="88" height="84" frameX="-8" frameY="0" frameWidth="95" frameHeight="85" />
+</TextureAtlas>

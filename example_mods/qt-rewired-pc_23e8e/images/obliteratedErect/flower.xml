@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- What are you looking for in here? -HTK -->
+
+<TextureAtlas imagePath="flower.png">
+	<SubTexture name="flower wind instancia 10000" x="5" y="5" width="43" height="65" frameX="-4" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10001" x="5" y="5" width="43" height="65" frameX="-4" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10002" x="5" y="5" width="43" height="65" frameX="-4" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10003" x="5" y="5" width="43" height="65" frameX="-4" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10004" x="5" y="5" width="43" height="65" frameX="-4" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10005" x="53" y="5" width="42" height="65" frameX="-2" frameY="-2" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10006" x="53" y="5" width="42" height="65" frameX="-2" frameY="-2" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10007" x="53" y="5" width="42" height="65" frameX="-2" frameY="-2" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10008" x="53" y="5" width="42" height="65" frameX="-2" frameY="-2" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10009" x="53" y="5" width="42" height="65" frameX="-2" frameY="-2" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10010" x="101" y="5" width="43" height="67" frameX="0" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10011" x="101" y="5" width="43" height="67" frameX="0" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10012" x="101" y="5" width="43" height="67" frameX="0" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10013" x="101" y="5" width="43" height="67" frameX="0" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10014" x="101" y="5" width="43" height="67" frameX="0" frameY="-1" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10015" x="149" y="5" width="41" height="67" frameX="-3" frameY="0" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10016" x="149" y="5" width="41" height="67" frameX="-3" frameY="0" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10017" x="149" y="5" width="41" height="67" frameX="-3" frameY="0" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10018" x="149" y="5" width="41" height="67" frameX="-3" frameY="0" frameWidth="47" frameHeight="67" />
+	<SubTexture name="flower wind instancia 10019" x="149" y="5" width="41" height="67" frameX="-3" frameY="0" frameWidth="47" frameHeight="67" />
+</TextureAtlas>

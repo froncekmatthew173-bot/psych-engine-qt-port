@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- What are you looking for in here? -HTK -->
+
+<TextureAtlas imagePath="tvScreens.png">
+	<SubTexture name="tvStatic0000" x="5" y="5" width="361" height="192" />
+	<SubTexture name="tvStatic0001" x="371" y="5" width="361" height="192" />
+	<SubTexture name="tvStatic0002" x="5" y="202" width="361" height="192" />
+	<SubTexture name="tvStatic0003" x="371" y="202" width="361" height="192" />
+</TextureAtlas>
