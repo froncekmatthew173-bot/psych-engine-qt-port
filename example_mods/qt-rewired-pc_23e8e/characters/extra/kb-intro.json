@@ -1,0 +1,51 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                649,
+                471
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "kb aa",
+            "indices": [
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                649,
+                471
+            ],
+            "anim": "intro-erect",
+            "fps": 24,
+            "name": "kb aa",
+            "indices": []
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/kb_export/kb-erect-intro",
+    "position": [
+        150,
+        600
+    ],
+    "healthicon": "kb",
+    "flip_x": false,
+    "healthbar_colors": [
+        128,
+        128,
+        128
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 8,
+    "scale": 2,
+    "_editor_isPlayer": false
+}

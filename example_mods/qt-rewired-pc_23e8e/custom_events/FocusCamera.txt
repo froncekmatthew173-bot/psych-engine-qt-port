@@ -1,0 +1,3 @@
+value1 : 0 or (1,2),x offset,y offset
+
+value2 : time, type (ex:CLASSIC,INSTANT,expoOut) If you want the classic camera, select: 1,CLASSIC

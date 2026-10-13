@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"anim": "idle",
+			"fps": 18,
+			"name": "Final_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [-68, 19],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "Final_Left",
+			"indices": []
+		},
+		{
+			"offsets": [22, 77],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Final_Down",
+			"indices": []
+		},
+		{
+			"offsets": [22, 35],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 14,
+			"name": "Final_Up",
+			"indices": []
+		},
+		{
+			"offsets": [-14, 39],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "Final_Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "2021/qt",
+	"position": [0, 0],
+	"healthicon": "qt-legacy",
+	"flip_x": false,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [50, 50],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

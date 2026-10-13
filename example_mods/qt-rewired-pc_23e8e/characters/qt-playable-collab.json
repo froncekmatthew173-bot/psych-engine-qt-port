@@ -1,0 +1,180 @@
+{
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"position": [
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"camera_position": [
+		8,
+		30
+	],
+	"image": "characters/QT_assets/qt-playable",
+	"sing_duration": 4,
+	"vocals_file": "qt-playable-collab",
+	"healthicon": "qt-player",
+	"_editor_isPlayer": false,
+	"is_player": false,
+	"flip_x": true,
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				405
+			],
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Intro"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				405
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				405
+			],
+			"fps": 24,
+			"anim": "deathConfirmEnglish-1",
+			"indices": [],
+			"name": "Confirm English 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				405
+			],
+			"fps": 24,
+			"anim": "deathConfirmSpanish-1",
+			"indices": [],
+			"name": "Confirm Spanish 1"
+		}
+	]
+}

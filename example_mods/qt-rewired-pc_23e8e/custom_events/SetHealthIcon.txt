@@ -1,0 +1,2 @@
+value1: who -> 0/bf/boyfriend for P1, 1/dad for P2
+value2: icon name (character icon to swap to)

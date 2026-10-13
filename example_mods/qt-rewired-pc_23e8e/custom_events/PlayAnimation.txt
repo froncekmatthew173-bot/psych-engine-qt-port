@@ -1,0 +1,3 @@
+value1: animation name
+
+value2: 0 or 1 (bf or dad)

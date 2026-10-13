@@ -1,0 +1,113 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                0,
+                0
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "export/BF idle dance",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                7,
+                0
+            ],
+            "anim": "singLEFT",
+            "fps": 24,
+            "name": "export/left alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -3,
+                0
+            ],
+            "anim": "singRIGHT",
+            "fps": 24,
+            "name": "export/right alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -310,
+                262
+            ],
+            "anim": "singUP",
+            "fps": 24,
+            "name": "alt export/up alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -296,
+                160
+            ],
+            "anim": "singDOWN",
+            "fps": 24,
+            "name": "alt export/down alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -503,
+                10
+            ],
+            "anim": "superHey",
+            "fps": 24,
+            "name": "export/erect intro",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -498,
+                24
+            ],
+            "anim": "shoulderSwish",
+            "fps": 24,
+            "name": "export/bf shoulder swish",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -300,
+                202
+            ],
+            "anim": "tired",
+            "fps": 24,
+            "name": "bf exhale",
+            "indices": []
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/bf/bf-qt-erect",
+    "position": [
+        17,
+        14
+    ],
+    "healthicon": "bf",
+    "flip_x": false,
+    "healthbar_colors": [
+        49,
+        176,
+        209
+    ],
+    "camera_position": [
+        -18,
+        36
+    ],
+    "sing_duration": 8,
+    "scale": 2,
+    "_editor_isPlayer": true
+}

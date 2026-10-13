@@ -1,0 +1,36 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "idle",
+            "indices": [],
+            "name": "exportsprite"
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/QT_assets/qt-dance",
+    "position": [
+        0,
+        350
+    ],
+    "healthicon": "qt",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        140,
+        181
+    ],
+    "camera_position": [
+        150,
+        250
+    ],
+    "sing_duration": 8,
+    "scale": 2,
+    "_editor_isPlayer": false
+}

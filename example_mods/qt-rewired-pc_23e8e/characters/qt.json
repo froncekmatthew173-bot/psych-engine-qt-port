@@ -1,0 +1,192 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                0,
+                0
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "export/qt idle",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -19,
+                5
+            ],
+            "anim": "still",
+            "fps": 24,
+            "name": "export/qt hi",
+            "indices": [
+                0
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -19,
+                5
+            ],
+            "anim": "intro",
+            "fps": 24,
+            "name": "export/qt hi",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                0,
+                0
+            ],
+            "anim": "danceRight-alt",
+            "fps": 24,
+            "name": "export/qt dance",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                0,
+                0
+            ],
+            "anim": "danceLeft-alt",
+            "fps": 24,
+            "name": "export/qt dance",
+            "indices": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -345,
+                -312
+            ],
+            "anim": "singLEFT",
+            "fps": 24,
+            "name": "export/qt left",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -345,
+                -312
+            ],
+            "anim": "singLEFT-alt",
+            "fps": 24,
+            "name": "export/qt left oh",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                0,
+                0
+            ],
+            "anim": "disgust",
+            "fps": 24,
+            "name": "export/qt poker face",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                87,
+                -73
+            ],
+            "anim": "cheer",
+            "fps": 24,
+            "name": "export/qt hey",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -331,
+                -309
+            ],
+            "anim": "preDance",
+            "fps": 24,
+            "name": "export/qt pre dance",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                73,
+                -95
+            ],
+            "anim": "singDOWN",
+            "fps": 24,
+            "name": "export/qt down",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -11,
+                29
+            ],
+            "anim": "singUP",
+            "fps": 24,
+            "name": "export/qt up",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                17,
+                -7
+            ],
+            "anim": "singRIGHT",
+            "fps": 24,
+            "name": "export/qt right",
+            "indices": []
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/QT_assets/qt",
+    "position": [
+        -285,
+        30
+    ],
+    "healthicon": "qt",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        140,
+        181
+    ],
+    "camera_position": [
+        150,
+        250
+    ],
+    "sing_duration": 8,
+    "scale": 2,
+    "_editor_isPlayer": false
+}

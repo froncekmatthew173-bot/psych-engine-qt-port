@@ -1,0 +1,135 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "preDance",
+            "fps": 24,
+            "name": "export/bf pre dance",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "danceLeft-alt",
+            "fps": 24,
+            "name": "export/bf caramelldansen",
+            "indices": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                0,
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "danceRight-alt",
+            "fps": 24,
+            "name": "export/bf caramelldansen",
+            "indices": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "intro",
+            "fps": 12,
+            "name": "Carpeta de elementos duplicados/bf transition",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "dodge-0",
+            "fps": 24,
+            "name": "export/boyfriend dodge",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "dodge-1",
+            "fps": 24,
+            "name": "Carpeta de elementos duplicados/bf dodge alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "sawHit-0",
+            "fps": 24,
+            "name": "export/bf saw hit alt",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                67,
+                -51
+            ],
+            "anim": "sawHit-1",
+            "fps": 24,
+            "name": "Carpeta de elementos duplicados/bf saw hit",
+            "indices": []
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/BF/bf-qt",
+    "position": [
+        0,
+        350
+    ],
+    "healthicon": "bf",
+    "flip_x": false,
+    "healthbar_colors": [
+        49,
+        176,
+        209
+    ],
+    "camera_position": [
+        0,
+        0
+    ],
+    "sing_duration": 4,
+    "scale": 2,
+    "_editor_isPlayer": true
+}

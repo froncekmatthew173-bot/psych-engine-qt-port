@@ -1,0 +1,128 @@
+{
+    "animations": [
+        {
+            "loop": false,
+            "offsets": [
+                -45,
+                9
+            ],
+            "anim": "idle",
+            "fps": 24,
+            "name": "qt erect intro 1",
+            "indices": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -45,
+                9
+            ],
+            "anim": "erectIntro1",
+            "fps": 24,
+            "name": "qt erect intro 1",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -45,
+                9
+            ],
+            "anim": "erectIntro2",
+            "fps": 24,
+            "name": "qt erect intro 2",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -45,
+                9
+            ],
+            "anim": "erectEnding",
+            "fps": 24,
+            "name": "qt erect ending",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                273,
+                309
+            ],
+            "anim": "preDance-erect",
+            "fps": 24,
+            "name": "qt caramelldansen full",
+            "indices": []
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -63,
+                -10
+            ],
+            "anim": "danceRight-erect",
+            "fps": 24,
+            "name": "caramelldansen",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "loop": false,
+            "offsets": [
+                -63,
+                -10
+            ],
+            "anim": "danceLeft-erect",
+            "fps": 24,
+            "name": "caramelldansen",
+            "indices": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        }
+    ],
+    "vocals_file": "",
+    "no_antialiasing": false,
+    "image": "characters/QT_assets/qt-erect",
+    "position": [
+        0,
+        350
+    ],
+    "healthicon": "qt",
+    "flip_x": false,
+    "healthbar_colors": [
+        255,
+        140,
+        181
+    ],
+    "camera_position": [
+        150,
+        250
+    ],
+    "sing_duration": 8,
+    "scale": 2,
+    "_editor_isPlayer": false
+}
