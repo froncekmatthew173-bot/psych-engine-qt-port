@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"blissful-(classic-version)",
+			"qt-legacy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"none",
+		"bf",
+		"none"
+	],
+	"storyName": "qt-rewired-pc_23e8e (V-Slice Songs)",
+	"weekName": "qt-rewired-pc_23e8e (V-Slice Songs)",
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,0 +1,266 @@
+{
+	"objects": [
+		{
+			"x": -1520,
+			"scroll": [
+				1.2,
+				1.2
+			],
+			"y": -477,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "foregroundChairDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/foregroundChair"
+		},
+		{
+			"x": -1520,
+			"scroll": [
+				1.2,
+				1.2
+			],
+			"y": -477,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "foregroundChair",
+			"filters": 3,
+			"image": "recordingStudio/foregroundChair"
+		},
+		{
+			"x": -1533,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -709,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "deskDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/desk"
+		},
+		{
+			"x": -1533,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -709,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "desk",
+			"filters": 3,
+			"image": "recordingStudio/desk"
+		},
+		{
+			"x": 851,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -532,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "couchDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/couch"
+		},
+		{
+			"x": 851,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -532,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "couch",
+			"filters": 3,
+			"image": "recordingStudio/couch"
+		},
+		{
+			"x": -794,
+			"scroll": [
+				0.985,
+				0.985
+			],
+			"y": -589,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "chairDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/chair"
+		},
+		{
+			"x": -794,
+			"scroll": [
+				0.985,
+				0.985
+			],
+			"y": -589,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "chair",
+			"filters": 3,
+			"image": "recordingStudio/chair"
+		},
+		{
+			"x": 820,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -800,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "overlayLamp",
+			"filters": 3,
+			"image": "recordingStudio/overlayLamp"
+		},
+		{
+			"x": -1769,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -767,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "lightDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/light"
+		},
+		{
+			"x": -1961,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -918,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "overlayGlowDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/overlayGlow"
+		},
+		{
+			"x": -1775,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -1141,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "wallsDark",
+			"filters": 3,
+			"image": "recordingStudio/dark/walls"
+		},
+		{
+			"x": -1775,
+			"scroll": [
+				1,
+				1
+			],
+			"y": -1141,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "walls",
+			"filters": 3,
+			"image": "recordingStudio/walls"
+		},
+		{
+			"x": 402,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"y": -750,
+			"type": "sprite",
+			"scale": [
+				1,
+				1
+			],
+			"name": "back",
+			"filters": 3,
+			"image": "recordingStudio/back"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_opponent": [
+		105,
+		73
+	],
+	"girlfriend": [
+		30,
+		-110
+	],
+	"camera_girlfriend": [
+		-100,
+		78
+	],
+	"boyfriend": [
+		410,
+		-24
+	],
+	"opponent": [
+		-525,
+		13
+	],
+	"hide_girlfriend": false,
+	"directory": "",
+	"camera_speed": 1,
+	"defaultZoom": 0.675,
+	"stageUI": "normal",
+	"camera_boyfriend": [
+		-210,
+		-110
+	]
+}

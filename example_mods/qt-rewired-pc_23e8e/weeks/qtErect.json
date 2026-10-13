@@ -1,0 +1,24 @@
+{
+    "songs": [
+    ["blissful-erect","qt",[255,140,181]]
+    ["obliterated-erect","kb",[144,144,144]]],
+    "hiddenUntilUnlocked": false,
+    "hideFreeplay": false,
+    "weekBackground": "",
+    "difficulties": "erect,nightmare",
+    "weekCharacters": [
+        "qt",
+        "bf",
+        "gf"
+    ],
+    "storyName": "YOUR FAVORITE ROBOT",
+    "weekName": "qtErect",
+    "freeplayColor": [
+        255,
+        255,
+        255
+    ],
+    "hideStoryMode": true,
+    "weekBefore": "",
+    "startUnlocked": true
+}

@@ -1,0 +1,36 @@
+{
+	"songs": [
+		[
+			"blissful",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"obliterated",
+			"kb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "YOUR FAVORITE ROBOT",
+	"weekName": "YOUR FAVORITE ROBOT",
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

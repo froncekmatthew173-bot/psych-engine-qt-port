@@ -1,0 +1,113 @@
+{
+	"camera_boyfriend": [
+		-100,
+		-100
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "qt-legacy"
+	},
+	"stageUI": "normal",
+	"boyfriend": [
+		790,
+		165
+	],
+	"girlfriend": [
+		392,
+		167
+	],
+	"defaultZoom": 0.92125,
+	"objects": [
+		{
+			"x": -750,
+			"y": -145,
+			"scale": [
+				1,
+				1
+			],
+			"image": "2021/streetBackCute",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stageBack",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -820,
+			"y": 710,
+			"scale": [
+				1.15,
+				1.15
+			],
+			"image": "2021/streetFrontCute",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -62,
+			"y": 540,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "2021/TV_V2_off",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tvs",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.9,
+				0.9
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"camera_speed": 1,
+	"opponent": [
+		195,
+		490
+	],
+	"directory": "",
+	"camera_opponent": [
+		150,
+		-100
+	],
+	"hide_girlfriend": false
+}
