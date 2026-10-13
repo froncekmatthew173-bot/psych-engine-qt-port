@@ -1,0 +1,11 @@
+1
+00:00:00,150 --> 00:00:01,225
+*Cough*
+
+2
+00:00:01,225 --> 00:00:03,730
+Dude, you’re filling the whole studio with smoke!
+
+2
+00:00:03,730 --> 00:00:04,500
+Come on!

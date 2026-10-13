@@ -1,0 +1,11 @@
+1
+00:00:00,015 --> 00:00:03,060
+Uh, do you want something to drink?
+
+1
+00:00:03,060 --> 00:00:05,730
+...What does a robot even drink anyway...
+
+1
+00:00:05,730 --> 00:00:06,500
+Oil?

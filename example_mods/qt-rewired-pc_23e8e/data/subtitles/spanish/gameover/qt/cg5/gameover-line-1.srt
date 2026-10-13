@@ -1,0 +1,7 @@
+1
+00:00:00,023 --> 00:00:01,150
+*Tose* ¡Oye!
+
+2
+00:00:01,150 --> 00:00:03,560
+¡Estás llenando todo el estudio de humo!

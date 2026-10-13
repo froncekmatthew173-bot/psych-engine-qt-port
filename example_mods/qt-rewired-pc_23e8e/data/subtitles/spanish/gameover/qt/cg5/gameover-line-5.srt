@@ -1,0 +1,7 @@
+1
+00:00:00,040 --> 00:00:02,395
+Bueno, creo que este casting no salió...
+
+2
+00:00:02,395 --> 00:00:03,240
+Nada bien.
