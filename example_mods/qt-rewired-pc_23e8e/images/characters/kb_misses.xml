@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- What are you looking for in here? -HTK -->
+
+<TextureAtlas imagePath="kb_misses.png" width="2992" height="2938">
+	<SubTexture name="kb down miss note0000" x="1" y="855" width="402" height="374" frameX="-1" frameY="-16" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0001" x="822" y="833" width="372" height="391" frameX="-13" frameY="0" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0002" x="822" y="833" width="372" height="391" frameX="-13" frameY="0" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0003" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0004" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0005" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0006" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0007" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0008" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0009" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0010" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0011" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0012" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb down miss note0013" x="862" y="427" width="375" height="387" frameX="-12" frameY="-4" frameWidth="403" frameHeight="392" />
+	<SubTexture name="kb left miss note0000" x="1" y="459" width="430" height="392" rotated="true" frameX="-3" frameY="-23" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0001" x="403" y="1" width="397" height="453" frameX="-3" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0002" x="403" y="1" width="397" height="453" frameX="-3" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0003" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0004" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0005" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0006" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0007" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0008" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0009" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0010" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0011" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0012" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb left miss note0013" x="1" y="1" width="398" height="453" frameX="0" frameY="0" frameWidth="401" frameHeight="455" />
+	<SubTexture name="kb right miss note0000" x="436" y="833" width="382" height="399" frameX="-1" frameY="-21" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0001" x="805" y="1" width="368" height="422" frameX="0" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0002" x="805" y="1" width="368" height="422" frameX="0" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0003" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0004" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0005" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0006" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0007" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0008" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0009" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0010" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0011" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0012" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb right miss note0013" x="436" y="459" width="422" height="370" rotated="true" frameX="-1" frameY="0" frameWidth="383" frameHeight="423" />
+	<SubTexture name="kb up miss note0000" x="822" y="1228" width="516" height="239" rotated="true" frameX="-8" frameY="0" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0001" x="1241" y="1" width="253" height="489" frameX="0" frameY="-29" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0002" x="1241" y="1" width="253" height="489" frameX="0" frameY="-29" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0003" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0004" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0005" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0006" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0007" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0008" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0009" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0010" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0011" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0012" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+	<SubTexture name="kb up miss note0013" x="1241" y="494" width="251" height="493" frameX="-2" frameY="-24" frameWidth="255" frameHeight="518" />
+</TextureAtlas>
